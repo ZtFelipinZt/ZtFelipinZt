@@ -22,5 +22,5 @@ Olá Me chamo Felipe Tavares! 👋
   
  </div>
 
- ![Snake animation](https://github.com/du4ards09/du4ards09/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/ZtFelipinZt/ZtFelipinZt/blob/output/github-contribution-grid-snake.svg)
  
